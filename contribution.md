@@ -1,0 +1,1 @@
+La estrategia con las branch es hacer commits en todo momento y crear ramas si veo que tengo que implementar un fucnion y no quiero arruinar el proyecto principal y si veo que todo funciona hacer un merge y unirlas el final.
